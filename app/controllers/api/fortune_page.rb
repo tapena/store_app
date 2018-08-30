@@ -21,4 +21,9 @@ class Api::ExamplePagesController < ApplicationController
 
     render 'lotto_view.json.jbuilder'
   end  
-end
+
+
+def counter_action
+  render "counter_view.json.jbuilder"
+ end 
+end 

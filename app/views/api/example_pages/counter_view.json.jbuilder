@@ -1,0 +1,1 @@
+json.counter_view @final_numbers
