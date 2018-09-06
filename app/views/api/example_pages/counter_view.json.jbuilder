@@ -1,1 +1,1 @@
-json.counter_view @final_numbers
+json.counter_view @counter_view

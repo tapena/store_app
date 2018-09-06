@@ -24,6 +24,7 @@ class Api::ExamplePagesController < ApplicationController
 
 
 def counter_action
+  @page
   render "counter_view.json.jbuilder"
  end 
 end 
