@@ -1,1 +1,1 @@
-json.counter_view @counter_view
+json.count @page_count
